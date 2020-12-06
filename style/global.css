@@ -1,0 +1,10 @@
+body {
+	background-color: white;
+	font-family: Helvetica, sans-serif;
+	font-size:100%;
+}
+
+.mainContent{
+	background-color: rgb(212,212,212);
+	height: 400px;
+}
