@@ -1,0 +1,10 @@
+.section{
+	background-color: rgb(212,212,212);
+	height: 400px;
+}
+
+footer{
+	margin-top: 17px;
+	background-color: lime;
+	height: 100px;
+}
