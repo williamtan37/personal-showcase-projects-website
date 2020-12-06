@@ -6,7 +6,7 @@
 .header{
 	font-size: 1.5em;
 	border: 2px solid;
-	background-image: url(../assets/will.jpg);
+	background-image: url(/assets/will.jpg);
 	background-size: 5.7em;
 	color:lime;
 	background-repeat: repeat-x;

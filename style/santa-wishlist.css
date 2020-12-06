@@ -1,0 +1,6 @@
+.appContainer{
+	background-image: url("/assets/santa.jpg");
+	background-repeat: no-repeat;
+	background-position: right top; 
+	background-size: 768px 520px;
+}

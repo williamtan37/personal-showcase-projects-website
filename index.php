@@ -14,7 +14,7 @@
 	<?php require 'nav.php' ?>
 
 	<div class="mainContent">
-		<p>Coming soon</p>
+		<a href="santa-wishlist.php"> Christmas wish-list app!</a>
 	</div>
 
 	<?php require 'footer.php' ?>

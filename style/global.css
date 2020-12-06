@@ -6,5 +6,7 @@ body {
 
 .mainContent{
 	background-color: rgb(212,212,212);
-	height: 400px;
+	height: 520px;
+	margin-top: 1em;
+	overflow: scroll;
 }
