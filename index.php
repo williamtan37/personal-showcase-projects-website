@@ -14,7 +14,8 @@
 	<?php require 'nav.php' ?>
 
 	<div class="mainContent">
-		<a href="santa-wishlist.php"> Christmas wish-list app!</a>
+		<a href="santa-wishlist.php"> Christmas wish-list app!</a><br><br>
+		<a href="whack-a-mole.php"> Play whack-a-mole! See how high of a score you can get!</a>
 	</div>
 
 	<?php require 'footer.php' ?>

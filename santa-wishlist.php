@@ -15,9 +15,6 @@
 	<?php require 'nav.php' ?>
 
 	<div class="mainContent appContainer">
-		<audio controls loop autoplay>
-  			<source src="assets/felizNavidad.mp3" type="audio/mp3">
-		</audio>
 		<h2> What would you like for Christmas?</h2>
 		<h3> We will send this list to your secret santa</h3>
 		<form action="santa-wishlist-submitted.php" id="form1" method="post">
@@ -27,6 +24,10 @@
 			<input type="text" name="email" required=""><br>
 			<button id='add-item-button' type="button">Add Item</button>
 			<input type="submit" value="Send List Now">
+			<br><br>
+			<audio controls loop autoplay>
+  				<source src="assets/felizNavidad.mp3" type="audio/mp3">
+			</audio>
 		</form>
 
 	</div>
